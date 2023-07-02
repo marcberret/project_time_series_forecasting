@@ -6,4 +6,4 @@ L'objectif de ce projet est de faire <b>la meilleure prédiction</b> possible su
 ## Liens 
 
 * Code : bientôt 
-* [**Synthèse des résultats**](https://github.com/marcberret/analyse_donnees_football/blob/main/Pr%C3%A9sentation_projet.pdf)
+* [**Synthèse des résultats**](https://github.com/marcberret/projet_serie_temporelle_co2/blob/main/Rapport.pdf)
